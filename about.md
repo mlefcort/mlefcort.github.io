@@ -1,5 +1,5 @@
 ---
-layout: http://brianmaierjr.github.com/long-haul
+layout: Default
 title: About
 permalink: /about/
 ---
