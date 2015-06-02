@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "I hope this reaches you well"
+title:  "First Blog Post & First Week Challenges"
 date:   2015-06-01 14:29:56
 categories: jekyll update
 ---
 
-My new Jekyll site
+This is my first post since creating my blog yesterday. In this blog I plan to record my progress throughout my time at ByteAcademy. In my first week, I encountered many challenges and learned several lessons that will help in my progression in becoming a better programmer.
+
+One significant thing that I learned is the importance of making comments within your code. As a beginner programmer, I often have to revert back in my code, and change things did not eventually work. When you fix one portion of your code and go back to work on another section, it easy to forget what exactly you were doing. When you do this, it is important that you make comments so you remember what exactly you were working on.
+
+Another significant thing that I learned in my first week was the importance of naming your variables. After listening to Armen's lecture of variable names, I quickly realized that I was making it harder on myself by initializing variables with unrelatable names. If you give your variables confusing names, the code will be difficult for yourself and others to read
